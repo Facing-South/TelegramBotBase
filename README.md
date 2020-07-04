@@ -4,7 +4,7 @@
 
 ### Python3
 1. Download latest Python3-Version here: [python.org](https://www.python.org/downloads/windows/)
-2. Run installer and be sure you enable the "Add PYthon to Path" option during installation
+2. Run installer and be sure you enable the "Add Python to Path" option during installation
 
 ### Telegram
 1. Open Command-Window and enter: pip install python-telegram-bot
