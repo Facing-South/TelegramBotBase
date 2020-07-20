@@ -13,7 +13,7 @@ To run a Telegram bot under Python, you need two things. For one, Python (I reco
 
 ## Create Bot
 <p align="center">
-  <img src="https://www.facing-south.com/img/botfather.png" style="max-width=50%">
+  <img src="https://www.facing-south.com/img/botfather.png" width="500">
 </p>
 
 To create a Telegram bot, please follow these instructions of the [Botfather](https://core.telegram.org/bots). During the installation you will receive a token, which must be kept secret so that the bot you create cannot be misused. And just for your information: The Botfather is a bot himself ;)</br>
