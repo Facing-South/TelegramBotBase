@@ -1,3 +1,5 @@
+![Python application](https://github.com/Facing-South/TelegramBotBase/workflows/Python%20application/badge.svg)
+
 # TelegramBotBase
 Here you will find the basis for a Telegram bot based on Python. Just like with a Discord bot, it is possible to use different programming languages for a Telegram bot. However, since I want to use a Telegram bot in connection with a Raspberry-Pi in the course of my development and the connection between Raspberry-Pi and Python is great, I decided to use Python for the base.
  
