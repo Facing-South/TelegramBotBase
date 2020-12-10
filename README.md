@@ -1,6 +1,9 @@
-![Python application](https://github.com/Facing-South/TelegramBotBase/workflows/Python%20application/badge.svg)
-
 # TelegramBotBase
+
+|License| Discord| Maintained|
+| :-: | :-: | :-: |
+| ![GitHub](https://img.shields.io/github/license/Facing-South/Linux-Commands) | [![Discord](https://img.shields.io/discord/641713710087405589.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/C3gfHBJ) | [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) |
+
 Here you will find the basis for a Telegram bot based on Python. Just like with a Discord bot, it is possible to use different programming languages for a Telegram bot. However, since I want to use a Telegram bot in connection with a Raspberry-Pi in the course of my development and the connection between Raspberry-Pi and Python is great, I decided to use Python for the base.
  
 ## Installation
@@ -26,3 +29,10 @@ After you have created your bot, you can download my template here from Github. 
 
 ## Run Bot
 After you have registered your bot and inserted the token in the token.txt, you can start the Python script. As long as the program is active, you can communicate with your bot via Telegram. In our example you can write the bot with "/ Hello", after which it will respond with "Hello". All other words you write to the bot will be answered with "I onlny react on" Hello ";)". Note that the token.txt file must be in the same folder as the TelegramBotBase.py Python file to be executed.
+
+# Contribution
+I am very happy about each of you who want to expand the code with me. Please follow the following guidelines:
+
+- Add an issue to this repository and give it a name
+- Fork this repository and add your changes
+- Create a pull-request with your changes
