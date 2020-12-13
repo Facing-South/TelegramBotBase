@@ -1,4 +1,4 @@
-# TelegramBotBase
+# TelegramBotBase with Python
 
 |License| Discord| Maintained|
 | :-: | :-: | :-: |
